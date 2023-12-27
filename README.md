@@ -11,9 +11,9 @@ A platform for Gophers similar to the awesome [Golang News](http://golangnews.co
 
 Droplets is built to showcase:
 
-1. Application of [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) and [EffectiveGo](https://golang.org/doc/effective_go.html)
+1. Application of [CodeReviewComments](https://github.com/OleksandrVlasi/Go-project/go/wiki/CodeReviewComments) and [EffectiveGo](https://golang.org/doc/effective_go.html)
 2. Usage of [Clean Architecture](http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-3. Testing practices such as [Table-driven tests](https://github.com/golang/go/wiki/TableDrivenTests)
+3. Testing practices such as [Table-driven tests](https://github.com/OleksandrVlasi/Go-project/go/wiki/TableDrivenTests)
 
 Follow the links to understand best practices and conventions used:
 1. [Directory Structure](./docs/organization.md)
